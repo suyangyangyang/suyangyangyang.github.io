@@ -21,5 +21,21 @@
       "itemsCount": 5,
       "url": "/ai-news/2026-10-22.html"
     }
+  ],
+  "categories": [
+    {
+      "key": "models",
+      "title": "模型动态",
+      "url": "/ai-news/models.html",
+      "count": 2,
+      "latestDate": "2026-10-22"
+    },
+    {
+      "key": "industry",
+      "title": "行业观察",
+      "url": "/ai-news/industry.html",
+      "count": 3,
+      "latestDate": "2026-10-22"
+    }
   ]
 }
