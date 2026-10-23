@@ -2,17 +2,25 @@
   "version": 1,
   "timeZone": "Asia/Shanghai",
   "schedule": "每天北京时间18:00开始整理，完成后发布",
-  "lastSuccessfulCutoff": "2026-10-22T18:03:30+08:00",
+  "lastSuccessfulCutoff": "2026-10-23T18:05:35+08:00",
   "latest": {
-    "date": "2026-10-22",
-    "title": "2026年10月22日 AI热点日报 洋洋子",
-    "cutoff": "2026-10-22T18:03:30+08:00",
+    "date": "2026-10-23",
+    "title": "2026年10月23日 AI热点日报 洋洋子",
+    "cutoff": "2026-10-23T18:05:35+08:00",
     "status": "published",
     "itemsCount": 5,
-    "url": "/ai-news/2026-10-22.html",
-    "bodyHTML": "<p>首次日报：优先筛选北京时间10月21日18:03至10月22日18:03的新进展。海外公告沿用原页日期；仅标注日期的公告，无法精确确认是否落在24小时边界内。排序为编辑判断，并非平台官方评分。</p>\n<div style=\"overflow-x:auto;max-width:100%\"><table style=\"min-width:1100px\"><thead><tr><th>推荐顺序</th><th>国内/海外·平台</th><th>事件/报道日期</th><th>热点与已确认事实</th><th>热度证据·地区·抓取时间</th><th>观众为什么关心</th><th>120秒口播角度</th><th>来源与核实状态</th></tr></thead><tbody><tr><td>1</td><td>海外·YouTube官方视频；美国研究预览</td><td>官方公告2026-10-21；本次10-22核实</td><td>Claude Duet推出研究预览，可主动简报、持续处理任务；先面向美国Pro/Max用户候补开放。不是全量上线，也不是新基础模型。</td><td><a href=\"https://www.youtube.com/watch?v=Fb-68zqcSVs\" target=\"_blank\" rel=\"noopener noreferrer\">官方视频</a>：435,621播放、6,496赞、447评论；10-22 18:03北京读取。视频累计数据，未提供地区拆分；热门榜排名未核实。</td><td>AI能否在你离开后继续推进工作；自己是否有资格使用。</td><td>“AI开始主动找活：它能做什么，哪些动作仍要问你？”展示简报、任务与审批。</td><td><a href=\"https://claude.com/resources/articles/claude-duet\" target=\"_blank\" rel=\"noopener noreferrer\">官方公告</a>已打开；<a href=\"https://www.macrumors.com/2026/10/21/anthropic-claude-duet/\" target=\"_blank\" rel=\"noopener noreferrer\">媒体交叉核对</a>。功能为官方描述，洋洋子未实测。</td></tr><tr><td>2</td><td>国内·智元；抖音/微博热度未核实</td><td>报道10-21 18:54；计划10-22启动，便利店直播11-02至11-03</td><td>智元公布AI WAVE排期，计划陆续发布具身智能成果，并安排6台G2机器人参加24小时便利店考核。已确认的是预告，尚未核实实际开播、完成率及今日交付。</td><td>10-22 18:01访问<a href=\"https://www.douyin.com/hot\" target=\"_blank\" rel=\"noopener noreferrer\">抖音榜</a>无可读榜项；<a href=\"https://s.weibo.com/top/summary?cate=realtimehot\" target=\"_blank\" rel=\"noopener noreferrer\">微博榜</a>跳访客校验。中国大陆，该平台热度未核实。</td><td>机器人从展示走到上货、补货等真实工作，距离稳定使用有多远。</td><td>“机器人要去便利店打工？先别急着说取代店员。”讲任务、连续运行与异常处理三个观察点。</td><td><a href=\"https://news.pedaily.cn/202610/570626.shtml\" target=\"_blank\" rel=\"noopener noreferrer\">投资界授权发布的活动预告</a>已打开；属于企业活动信息的媒体承载，未取得独立现场验证或直接官方成果页。</td></tr><tr><td>3</td><td>海外·Claude开发者平台</td><td>官方更新2026-10-21；本次10-22核实</td><td>Claude发布API版本2026-10-21及新版SDK。切到新版本后，temperature、top_p、top_k等参数会导致400错误；旧API版本不等于立即停用。</td><td>10-22 18:03核对官方更新；没有取得平台榜单或趋势数值。重要资讯，平台热度未证实。</td><td>用AI搭产品、接自动化的人，升级依赖后可能遇到接口不兼容。</td><td>“AI产品昨天能用，升级后报错：先查接口版本。”用示意代码讲清新旧版本差别。</td><td><a href=\"https://platform.claude.com/docs/en/release-notes/overview\" target=\"_blank\" rel=\"noopener noreferrer\">更新日志</a>、<a href=\"https://platform.claude.com/docs/en/api/migration-2026-10-21\" target=\"_blank\" rel=\"noopener noreferrer\">官方迁移指南</a>均已打开。未执行付费调用或个人实测。</td></tr><tr><td>4</td><td>海外·ServiceNow企业产品</td><td>首次Project Arc预告2026-05-05；新增正式可用公告10-21</td><td>Arc企业长时运行智能体正式可用，面向EmployeeWorks；Mac已支持，Windows预计数周内推出。AI Passport与硬件执行整合仍属未来版本。</td><td>10-22 18:03核对官方公告；该平台热度未核实。重要资讯，平台热度未证实。</td><td>企业购买AI时，除了能做事，还要知道它能访问什么、如何停止越权动作。</td><td>“公司里的AI员工，为什么需要权限边界？”用邮箱、审批、系统访问三个场景解释。</td><td><a href=\"https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-delivers-industry-first-personal-enterprise-agent-and-policy-enforcement-with-NVIDIA-extending-AI-governance-across-software-and-silicon/default.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">正式可用公告</a>、<a href=\"https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-extends-agentic-AI-governance-from-desktops-to-data-centers-with-NVIDIA/default.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">5月最初预告</a>已打开。厂商功能陈述，未独立测评。</td></tr><tr><td>5</td><td>海外·NVIDIA GTC柏林</td><td>官方公告2026-10-21；计划2027年初交付</td><td>NVIDIA公布DSX POD模块化AI工厂参考设计：先在工厂集成测试，再运至准备好的场地。厂商称现场部署可从六个月缩至最快14天，不是整座数据中心从零建设只需14天。</td><td>10-22 18:03核对官方原页；未取得相关平台榜单证据。重要资讯，平台热度未证实。</td><td>AI项目落地受算力、电力、冷却和部署周期制约，不只是模型能力。</td><td>“把AI机房装进集装箱，14天指的是哪一步？”画出工厂预制与现场配套的分工。</td><td><a href=\"https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment\" target=\"_blank\" rel=\"noopener noreferrer\">NVIDIA官方公告</a>已打开；速度为厂商陈述，交付为未来计划。</td></tr></tbody></table></div>\n<p>平台核实边界：10月22日18:01—18:03北京时间，<a href=\"https://ads.tiktok.com/creative/creativeCenter/trends\" target=\"_blank\" rel=\"noopener noreferrer\">TikTok趋势页</a>仅返回导航与登录入口，全球/美国排名未取得，该平台热度未核实。<a href=\"https://trends.google.com/trends/explore?date=now%201-d&amp;q=Claude%20Duet&amp;hl=en\" target=\"_blank\" rel=\"noopener noreferrer\">Google Trends全球、过去1天的Claude Duet查询</a>读取失败；<a href=\"https://trends.google.com/trending?geo=US\" target=\"_blank\" rel=\"noopener noreferrer\">美国、过去24小时Trending Now</a>可读部分榜项，但没有取得本表话题的可核实数值，不能据此断言它们未上榜。未将相对热度当绝对搜索量。<a href=\"https://www.youtube.com/feed/trending\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube热门页</a>没有返回榜单，仅核实到上述官方单条视频互动，不宣称覆盖全部平台。</p>"
+    "url": "/ai-news/2026-10-23.html",
+    "bodyHTML": "<p>增量窗口：北京时间10月22日18:03:30至10月23日18:05:35。海外公告沿用原页日期，仅有日期时不能精确确认是否跨过窗口边界。讯飞条目属于重要补录，未当作今日发布。排序为编辑判断，不是平台官方评分。</p>\n<div style=\"overflow-x:auto;max-width:100%\"><table style=\"min-width:1100px\"><thead><tr><th>推荐顺序</th><th>国内/海外·平台</th><th>事件/报道日期</th><th>热点与已确认事实</th><th>热度证据·地区·抓取时间</th><th>观众为什么关心</th><th>120秒口播角度</th><th>来源与核实状态</th></tr></thead><tbody><tr><td>1</td><td>海外·OpenAI；YouTube相关视频</td><td>正式可用公告10-22；相关演示视频首次发布10-06</td><td>Decisions API正式可用，用于分类、路由等有限选项判断。此次新增GPT-Live集成、缓存等能力，单次最多400个问题；不是通用聊天模型替代品。</td><td><a href=\"https://www.youtube.com/watch?v=FB6oCmrIj-Y\" target=\"_blank\" rel=\"noopener noreferrer\">官方视频</a>累计389197播放、4836赞、373评论；10-23 18:03—18:04读取，无地区拆分。是10-06旧视频，不能证明今日热度或热门榜排名。</td><td>AI产品不只需要写长文，也需要快速判断下一步该做什么。</td><td>用客服消息分流示意说明分类与聊天的区别；官方速度宣称不能当作个人实测。</td><td><a href=\"https://openai.com/index/decisions-api/\" target=\"_blank\" rel=\"noopener noreferrer\">官方公告</a>已打开，正式可用及能力更新已核实；没有付费调用或实测。热门榜热度未核实。</td></tr><tr><td>2</td><td>国内·AI与就业；抖音/微博</td><td>新华社消息10-23；转载17:07。文件为日前印发，具体签发日未核实</td><td>国办部署适应AI发展、构建就业友好型发展方式的6方面18项任务，涉及新职业、技能培训、岗位转型及风险评估。不能据此推断具体岗位必然消失或补贴立即可领。</td><td>10-23 18:01—18:02访问<a href=\"https://www.douyin.com/hot\" target=\"_blank\" rel=\"noopener noreferrer\">抖音榜</a>无可读榜项；<a href=\"https://s.weibo.com/top/summary?cate=realtimehot\" target=\"_blank\" rel=\"noopener noreferrer\">微博榜</a>跳访客校验。中国大陆，该平台热度未核实。</td><td>学AI应怎样结合自己的专业、岗位和实际任务，而不只是追新工具。</td><td>从新职业、技能训练、岗位转型三个方向解释；不制造就业焦虑，不作具体待遇承诺。</td><td><a href=\"https://www.bjnews.com.cn/detail/1792745186129867.html\" target=\"_blank\" rel=\"noopener noreferrer\">新华社消息的新京报转载</a>已打开；政府网原文访问403，未核对全部条款。重要资讯，平台热度未证实。</td></tr><tr><td>3</td><td>国内·讯飞；模型动态</td><td>发布10-22下午，早于上次截止；重要补录。本次核对后续报道与权重页，不是10-23新版本</td><td>Spark-X2.6-4B已公开权重，采用Apache 2.0许可，面向本地部署；支持三档思考预算。端云协同按任务分工，不代表所有任务均可离线完成。</td><td>10-23 18:05核对原始模型页；抖音/微博榜单无法核实，未将模型下载或点赞当热搜。重要资讯，平台热度未证实。</td><td>本地AI能处理哪些任务，什么情况下仍需要云端，直接影响隐私和使用成本。</td><td>用本地处理与复杂任务上云的流程示意，说明小模型的用途和限制。</td><td><a href=\"https://huggingface.co/XHToken/Spark-X2.6-4B\" target=\"_blank\" rel=\"noopener noreferrer\">发布团队模型卡</a>、<a href=\"https://www.bjnews.com.cn/detail/1792660415129996.html\" target=\"_blank\" rel=\"noopener noreferrer\">昨日21:14报道</a>、<a href=\"https://www.ithome.com/1/016/403.htm\" target=\"_blank\" rel=\"noopener noreferrer\">昨日14:40发布记录</a>已打开；模型性能为厂商陈述，未下载运行。</td></tr><tr><td>4</td><td>海外·Uber企业部署</td><td>官方公告10-22；当天开始推广</td><td>Uber宣布向全球超过30000名员工推广ChatGPT Work。公告表示后续将分享采用情况与可衡量结果，目前不能把购买或开放权限等同于已证明的效率提升。</td><td>10-23 18:02—18:05核对公告；未取得相关平台真实榜项或趋势数值。重要资讯，平台热度未证实。</td><td>企业把AI发给员工之后，能否真正接入工作流程，比账号数量更值得观察。</td><td>公司给员工配AI之后还要做什么；讲任务、工具连接、结果验收。</td><td><a href=\"https://openai.com/index/uber-chatgpt-work-rollout/\" target=\"_blank\" rel=\"noopener noreferrer\">OpenAI官方公告</a>已打开；部署声明已核实，实际使用率与提效结果尚未公布。</td></tr><tr><td>5</td><td>海外·美国社区银行AI安全合作</td><td>ICBA公告10-22；具体时刻未标注</td><td>ICBA与OpenAI宣布合作，为符合条件的会员银行提供探索Daybreak防御能力、培训与支持的渠道。不是所有银行已全面部署，也不保证防住全部攻击。</td><td>10-23 18:03—18:05核对原始公告；未取得相关平台排名或互动证据。重要资讯，平台热度未证实。</td><td>AI不只生成内容，也进入漏洞识别、威胁调查等实际工作；准入和人工复核仍重要。</td><td>用发现问题、验证问题、修复复核的流程图解释AI安全助手。</td><td><a href=\"https://www.icba.org/w/icba-openai-announce-strategic-alliance\" target=\"_blank\" rel=\"noopener noreferrer\">ICBA原始公告</a>已打开；资格条件与合作方向已确认，覆盖率和防御效果未独立验证。</td></tr></tbody></table></div>\n<p>平台核实边界：10月23日18:01—18:05北京时间，抖音无可读榜单，微博跳访客校验；两者均为中国大陆范围，该平台热度未核实。<a href=\"https://ads.tiktok.com/creative/creativeCenter/trends\" target=\"_blank\" rel=\"noopener noreferrer\">TikTok趋势页</a>只返回导航及登录入口，未取得全球或美国趋势、热门作品指标，该平台热度未核实。<a href=\"https://trends.google.com/trends/explore?date=now%201-d&amp;q=Spark%20X2.6,OpenAI%20Decisions%20API&amp;hl=en\" target=\"_blank\" rel=\"noopener noreferrer\">Google Trends全球过去1天查询</a>读取失败；<a href=\"https://trends.google.com/trending?geo=US\" target=\"_blank\" rel=\"noopener noreferrer\">美国过去24小时Trending Now</a>可读前25项，共510项，但没有取得本表话题的可核实趋势数值，不能断言它们未上榜。未将相对热度视为绝对搜索量。<a href=\"https://www.youtube.com/feed/trending\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube热门页</a>没有返回榜单；仅用现有yt-dlp读取到表内官方视频累计互动，不代表今日新增或某地区热门。未宣称覆盖全部平台。</p>"
   },
   "archive": [
+    {
+      "date": "2026-10-23",
+      "title": "2026年10月23日 AI热点日报 洋洋子",
+      "cutoff": "2026-10-23T18:05:35+08:00",
+      "status": "published",
+      "itemsCount": 5,
+      "url": "/ai-news/2026-10-23.html"
+    },
     {
       "date": "2026-10-22",
       "title": "2026年10月22日 AI热点日报 洋洋子",
@@ -27,15 +35,15 @@
       "key": "models",
       "title": "模型动态",
       "url": "/ai-news/models.html",
-      "count": 2,
-      "latestDate": "2026-10-22"
+      "count": 4,
+      "latestDate": "2026-10-23"
     },
     {
       "key": "industry",
       "title": "行业观察",
       "url": "/ai-news/industry.html",
-      "count": 3,
-      "latestDate": "2026-10-22"
+      "count": 6,
+      "latestDate": "2026-10-23"
     }
   ]
 }
