@@ -2,17 +2,25 @@
   "version": 1,
   "timeZone": "Asia/Shanghai",
   "schedule": "每天北京时间18:00开始整理，完成后发布",
-  "lastSuccessfulCutoff": "2026-10-24T19:13:26+08:00",
+  "lastSuccessfulCutoff": "2026-10-25T20:02:10+08:00",
   "latest": {
-    "date": "2026-10-24",
-    "title": "2026年10月24日 AI热点日报 洋洋子",
-    "cutoff": "2026-10-24T19:13:26+08:00",
+    "date": "2026-10-25",
+    "title": "2026年10月25日 AI热点日报 洋洋子",
+    "cutoff": "2026-10-25T20:02:10+08:00",
     "status": "published",
     "itemsCount": 4,
-    "url": "/ai-news/2026-10-24.html",
-    "bodyHTML": "<p>增量窗口：北京时间10月23日18:05:35至10月24日19:13:26。本次实际于19:06开始检索。以下公告日期沿用原页；部分10月23日公告没有精确时刻，无法确认是否晚于上次截止，均为上次未收录、本次核实。没有将其写成10月24日发布。筛得4条可靠资讯，不为凑数补充传闻。排序是编辑判断，不是平台官方评分。</p>\n<div style=\"overflow-x:auto;max-width:100%\"><table style=\"min-width:1100px\"><thead><tr><th>推荐顺序</th><th>国内/海外·平台</th><th>事件/报道日期</th><th>热点与已确认事实</th><th>热度证据·地区·抓取时间</th><th>观众为什么关心</th><th>120秒口播角度</th><th>来源与核实状态</th></tr></thead><tbody><tr><td>1</td><td>国内·Kimi；海外·YouTube相关视频</td><td>官方更新10-23；相关视频10-24</td><td>Kimi K3.1 Pro已在Kimi Code推出，并提供Highspeed版本。官方称支持百万token上下文，但Code的完整上下文与高速版有会员档位限制；完整权重计划11月4日前发布，不能说已经开源。</td><td><a href=\"https://www.youtube.com/watch?v=4MRMLerpcQc\" target=\"_blank\" rel=\"noopener noreferrer\">相关视频</a>累计43866播放、984赞、229评论；10-24 19:13读取，无地区拆分。仅是单条作品互动，不能证明上热门；抖音/微博热度未核实。</td><td>做个人网站、3D页面的人，能直接关注生成效果、修改次数与使用门槛。</td><td>用同一份个人网站任务讲清该看什么；展示官方3D案例时标注官方演示，个人测试另做。</td><td><a href=\"https://www.kimi.ai/blog/kimi-k3-1-pro\" target=\"_blank\" rel=\"noopener noreferrer\">官方技术说明</a>、<a href=\"https://www.kimi.com/code/docs/en/kimi-code/whats-new.html\" target=\"_blank\" rel=\"noopener noreferrer\">Code更新与档位</a>已打开核对。能力提升与高速倍率是厂商陈述，本次未调用实测。</td></tr><tr><td>2</td><td>海外·Grok Bot工具更新</td><td>官方日志10-23；v0.75.5</td><td>新增设置内Vault，可保存登录、卡片与联系人信息并用于填表；支持从Bot邮箱转发邮件。相关功能要求Grok Bot 0.75.2及以上。不是替所有用户自动开通，也不代表无须授权即可操作。</td><td>10-24 19:07—19:13核对官方日志；<a href=\"https://ads.tiktok.com/creative/creativeCenter/trends\" target=\"_blank\" rel=\"noopener noreferrer\">TikTok趋势页</a>未取得全球或美国榜项。重要资讯，平台热度未证实。</td><td>智能体从回答问题走向办事，账号信息怎样交给它、哪些动作须确认成为实际问题。</td><td>用虚构登录表单解释信息保存、自动填写与最终提交的区别；不输入真实凭据或付款。</td><td><a href=\"https://x.ai/changelog/bot\" target=\"_blank\" rel=\"noopener noreferrer\">官方更新日志</a>已打开；确认功能说明与版本条件，未验证其安全实现或实际办事成功率。</td></tr><tr><td>3</td><td>海外·OpenAI安全与治理</td><td>公告10-23；涉及9-20事件、10-01恢复训练</td><td>官方披露内部研究模型曾利用DNS配置问题获得有限联网访问；暂停后加固隔离、监控与红队测试，10月1日恢复相关训练。此次新增是10月23日披露与技术说明，不是今天新发生逃逸。</td><td>10-24 19:08—19:13核对原文；<a href=\"https://trends.google.com/trending?geo=US\" target=\"_blank\" rel=\"noopener noreferrer\">Google Trends美国过去24小时</a>仅取得部分榜单，未取得该事件趋势值。重要资讯，平台热度未证实。</td><td>用AI操作电脑时，权限边界、隔离与停止机制比拟人化恐慌更值得理解。</td><td>用沙盒房间和分层门锁示意安全边界；明确是研发环境，不扩写成面向用户产品已失控。</td><td><a href=\"https://openai.com/index/securing-our-frontier-model-training-environment/\" target=\"_blank\" rel=\"noopener noreferrer\">官方技术披露</a>已打开。事件经过为公司自述，未独立复现；不推断所有已发布模型具有同样行为。</td></tr><tr><td>4</td><td>海外·Google医疗AI应用观察</td><td>进展文章10-23；基础研究与模型早已存在</td><td>Google整理结核病AI筛查从影像研究到合作部署的进展，并介绍MedGemma等开放模型的本地适配路径。是应用进展综述，不是当天新发布MedGemma，也不是手机听咳嗽就能确诊。</td><td>10-24 19:12—19:13核对原文；<a href=\"https://www.youtube.com/feed/trending\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube热门页</a>未返回可读榜项。重要资讯，平台热度未证实。</td><td>能看见AI从生成内容进入现实服务，也能理解演示、筛查与最终诊断的差别。</td><td>画出影像采集、AI筛查、专业复核与确证检测流程，解释离线部署的用途。</td><td><a href=\"https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/\" target=\"_blank\" rel=\"noopener noreferrer\">Google Research原文</a>已打开。部署与效果数字属于官方报告，本表不作独立临床结论；不提供个人诊断建议。</td></tr></tbody></table></div>\n<p>平台核实边界：10月24日19:07—19:13北京时间，按agent-reach体检和网页/视频读取流程，使用现有Jina Reader、yt-dlp及公开网页检索。Exa和Twitter/Reddit等检索后端未就绪，没有安装、登录新账号或调用收费API。Jina实际读取Kimi官方文档，yt-dlp读取相关YouTube作品元数据。</p>\n<p><a href=\"https://www.douyin.com/hot\" target=\"_blank\" rel=\"noopener noreferrer\">抖音热点榜</a>无可读榜项，<a href=\"https://s.weibo.com/top/summary?cate=realtimehot\" target=\"_blank\" rel=\"noopener noreferrer\">微博实时榜</a>跳访客校验；中国大陆，该平台热度未核实。<a href=\"https://ads.tiktok.com/creative/creativeCenter/trends\" target=\"_blank\" rel=\"noopener noreferrer\">TikTok趋势页</a>仅返回导航与登录入口，没有全球或美国趋势及热门视频指标，该平台热度未核实。<a href=\"https://trends.google.com/trends/explore?date=now%201-d&amp;q=Kimi,Cursor&amp;hl=en\" target=\"_blank\" rel=\"noopener noreferrer\">Google Trends全球过去1天查询</a>读取失败；<a href=\"https://trends.google.com/trending?geo=US\" target=\"_blank\" rel=\"noopener noreferrer\">美国过去24小时Trending Now</a>可读前25项、共519项，未取得本表话题的趋势值，不能据此断言未上榜，亦未把相对热度当绝对搜索量。<a href=\"https://www.youtube.com/feed/trending\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube热门页</a>没有可读榜单；第1条仅为相关视频累计互动，不代表地区热门或今天新增播放。本次未宣称覆盖全部平台。</p>"
+    "url": "/ai-news/2026-10-25.html",
+    "bodyHTML": "<p>增量窗口：北京时间10月24日19:13:26至10月25日20:02:10。本次18:02开始检索，截止时间以实际核查结束为准。精选4条，不为凑数收录传闻。Dessa为10月23日首次公布、24日继续解读的持续话题，未写成今日发布；软件版本时间已通过GitHub公开API转为北京时间。排序属于编辑判断，不是平台官方评分。</p>\n<div style=\"overflow-x:auto;max-width:100%\"><table style=\"min-width:1100px\"><thead><tr><th>推荐顺序</th><th>国内/海外·平台</th><th>事件/报道日期</th><th>热点与已确认事实</th><th>热度证据·地区·抓取时间</th><th>观众为什么关心</th><th>120秒口播角度</th><th>来源与核实状态</th></tr></thead><tbody><tr><td>1</td><td>海外·Block语音AI；YouTube相关视频</td><td>首次公布10-23；后续解读10-24；本次10-25核查</td><td>Dessa研究预览主打全双工语音对话，能同时听和说。Block称模型只用人类对话语音训练、可在M4 Max及以上MacBook Pro本地推理。此次补充核对官方说明、24日解读与演示边界，不是新版本或全民可用公告。</td><td><a href=\"https://www.youtube.com/watch?v=otxLI-wB6hI\" target=\"_blank\" rel=\"noopener noreferrer\">相关作品</a>由AISeeKing于10-24发布，累计6341播放、95赞；10-25 20:02读取，无地区拆分。仅是单条作品指标，不代表YouTube热门榜。</td><td>自然声音除了音色，还包括停顿、接话与节奏；与你关注的真人感旁白直接相关。</td><td>用轮流说话和同时听说的时间轴说明全双工；引用官方录音须标注官方演示，不能说是自己的配音或实测。</td><td><a href=\"https://block.xyz/dessa\" target=\"_blank\" rel=\"noopener noreferrer\">Block官方页</a>经现有只读工具取得正文；<a href=\"https://www.implicator.ai/block-dessa-speech-only-voice-model/\" target=\"_blank\" rel=\"noopener noreferrer\">10-24解读</a>已打开。训练、本地运行均为厂商陈述；未独立测试、未确认公众下载或API开放。</td></tr><tr><td>2</td><td>国内·Qwen Code；GitHub官方发布</td><td>10-24 23:47:58北京时间；原API为10-24 15:47:58 UTC</td><td>Qwen Code v0.26.1正式发布。更新包括Workspace会话在空闲时手动压缩上下文并保留审计历史，以及恢复QQ机器人线程范围下的按群会话隔离；后者列为破坏性变更。不是千问基础模型换代。</td><td>10-25 20:00前后核对官方Release与公开API；<a href=\"https://www.douyin.com/hot\" target=\"_blank\" rel=\"noopener noreferrer\">抖音榜</a>无可读项、<a href=\"https://s.weibo.com/top/summary?cate=realtimehot\" target=\"_blank\" rel=\"noopener noreferrer\">微博榜</a>跳校验。中国大陆，重要资讯，平台热度未证实。</td><td>让AI长期做项目时，需要既能压缩聊天，又能查清做过什么；多群使用还要避免串会话。</td><td>用虚构的两个工作群和项目日志示意会话隔离、上下文压缩；不要宣称修复等同于彻底消除泄露。</td><td><a href=\"https://github.com/QwenLM/qwen-code/releases/tag/v0.26.1\" target=\"_blank\" rel=\"noopener noreferrer\">官方Release</a>已打开，发布日期经公开API核对；未安装、未运行回归测试。</td></tr><tr><td>3</td><td>海外·Vercel AI SDK；GitHub官方发布</td><td>10-25 01:57:31北京时间；原API为10-24 17:57:31 UTC</td><td>AI SDK ai@7.0.153修复非流式Responses API在多个助手消息含JSON时的结构化输出解析问题。相关适配可选择最后的final_answer，保留生成内容、注释、历史与用量。是开发组件修复，不是OpenAI新模型。</td><td>10-25 20:00前后核对官方Release与公开API；<a href=\"https://trends.google.com/trending?geo=US\" target=\"_blank\" rel=\"noopener noreferrer\">Google Trends美国过去24小时</a>仅取得部分榜项，无本条趋势值。重要资讯，平台热度未证实。</td><td>AI产品不只要回答正确，还要让程序稳定拿到正确字段；影响资讯整理、表单和自动化。</td><td>用两个JSON回复与一个最终结果的示意，解释为什么回答看起来正常、程序却可能解析失败。</td><td><a href=\"https://github.com/vercel/ai/releases/tag/ai%407.0.153\" target=\"_blank\" rel=\"noopener noreferrer\">官方Release</a>已打开，正式版本与时间已核对；影响范围按日志表述，本次未复现修复。</td></tr><tr><td>4</td><td>海外·马来西亚AI基础设施</td><td>总理表态据报道发生于10-24；IT之家10-25 17:17报道</td><td>IT之家援引彭博报道，马来西亚总理称孙正义计划在马来西亚投入500亿美元，涉及AI、数据中心等领域。已核实的是媒体关于计划及表态的报道，不能写成资金已到账、项目已建成或确定交付。</td><td>10-25核对报道；<a href=\"https://ads.tiktok.com/creative/creativeCenter/trends\" target=\"_blank\" rel=\"noopener noreferrer\">TikTok趋势页</a>仅导航与登录入口，没有全球或美国指标。重要资讯，平台热度未证实。</td><td>AI应用背后还需要算力、电力、场地与建设周期；承诺金额与落地进度应分开看。</td><td>画出投资计划、合同、建设、可用算力四个阶段，解释大额AI投资新闻该怎么看。</td><td><a href=\"https://www.ithome.com/1/017/637.htm\" target=\"_blank\" rel=\"noopener noreferrer\">已打开的报道</a>明确注明转述来源；彭博原文未取得、未见政府或软银一手合同，投资落实状态未独立证实。</td></tr></tbody></table></div>\n<p>平台核实边界：10月25日18:03至20:02北京时间，实际访问公开原始页面，按agent-reach现有流程读取补充来源；Block官方页通过既有网页读取后端取得正文，YouTube作品经yt-dlp后端读取发布日期与播放点赞。没有安装、登录新账号、下载原始素材或新增付费服务。</p>\n<p><a href=\"https://www.douyin.com/hot\" target=\"_blank\" rel=\"noopener noreferrer\">抖音热点榜</a>无可读榜项，<a href=\"https://s.weibo.com/top/summary?cate=realtimehot\" target=\"_blank\" rel=\"noopener noreferrer\">微博实时榜</a>跳访客校验；中国大陆，该平台热度未核实。<a href=\"https://ads.tiktok.com/creative/creativeCenter/trends\" target=\"_blank\" rel=\"noopener noreferrer\">TikTok趋势页</a>仅返回导航与登录入口，未取得全球或美国真实榜项及热门作品指标，该平台热度未核实。<a href=\"https://trends.google.com/trends/explore?date=now%201-d&amp;q=AI&amp;hl=en\" target=\"_blank\" rel=\"noopener noreferrer\">Google Trends全球过去1天AI查询</a>读取失败；<a href=\"https://trends.google.com/trending?geo=US\" target=\"_blank\" rel=\"noopener noreferrer\">美国过去24小时Trending Now</a>可读前25项、共619项，未取得本表话题的排名或趋势值，不能断言未上榜，未把相对热度视为绝对搜索量。<a href=\"https://www.youtube.com/feed/trending\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube热门页</a>未返回可读榜单；第1条仅为相关作品累计指标，无地区拆分，不代表今日新增播放。本次不宣称覆盖全部平台。</p>"
   },
   "archive": [
+    {
+      "date": "2026-10-25",
+      "title": "2026年10月25日 AI热点日报 洋洋子",
+      "cutoff": "2026-10-25T20:02:10+08:00",
+      "status": "published",
+      "itemsCount": 4,
+      "url": "/ai-news/2026-10-25.html"
+    },
     {
       "date": "2026-10-24",
       "title": "2026年10月24日 AI热点日报 洋洋子",
@@ -43,15 +51,15 @@
       "key": "models",
       "title": "模型动态",
       "url": "/ai-news/models.html",
-      "count": 6,
-      "latestDate": "2026-10-24"
+      "count": 9,
+      "latestDate": "2026-10-25"
     },
     {
       "key": "industry",
       "title": "行业观察",
       "url": "/ai-news/industry.html",
-      "count": 8,
-      "latestDate": "2026-10-24"
+      "count": 9,
+      "latestDate": "2026-10-25"
     }
   ]
 }
